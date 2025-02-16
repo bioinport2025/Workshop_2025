@@ -30,8 +30,5 @@
 
 ## 活動合影
 
-直接顯示圖片：
-```markdown
-![活動合影](./Photo/S__26640403.jpg)
-
+<img src="https://github.com/bioinport2025/Workshop_2025/blob/main/LOGO/S__26640403.jpg" alt="活動合影" width="100"/>
  
