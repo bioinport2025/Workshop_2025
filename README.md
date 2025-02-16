@@ -32,3 +32,6 @@
 
 <img src="https://github.com/bioinport2025/Photo/blob/main/www/S__26640403.jpg?raw=true" alt="活動合影" width="1000"/>
  
+---
+## 實驗室網站
+[KGD Lab](https://twkgd.wordpress.com/)
