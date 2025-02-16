@@ -30,5 +30,5 @@
 
 ## 活動合影
 
-<img src="https://github.com/bioinport2025/Photo/www/S__26640403.jpg" alt="活動合影" width="100"/>
+<img src="https://github.com/bioinport2025/Photo/tree/main/www/S__26640403.jpg" alt="活動合影" width="100"/>
  
