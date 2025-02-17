@@ -30,7 +30,7 @@
 
 ## 活動合影
 
-<img src="https://github.com/bioinport2025/Photo/blob/main/www/S__26640403.jpg?raw=true" alt="活動合影" width="1000"/>
+<img src="https://github.com/bioinport2025/Workshop_2025/blob/main/www/S__26640403.jpg?raw=true?raw=true" alt="活動合影" width="1000"/>
  
 ---
 ## 實驗室網站
